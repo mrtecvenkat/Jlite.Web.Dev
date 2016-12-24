@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2016-12-23T19:37:08Z" finished-at="2016-12-23T19:37:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2016-12-23T19:37:08Z" finished-at="2016-12-23T19:37:08Z">
+      <class name="com.poet.core.test.testcases.TestClassOne">
+        <test-method status="PASS" signature="doTest()[pri:0, instance:com.poet.core.test.testcases.TestClassOne@5419f379]" name="doTest" duration-ms="9" started-at="2016-12-23T14:37:08Z" finished-at="2016-12-23T14:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+      </class> <!-- com.poet.core.test.testcases.TestClassOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

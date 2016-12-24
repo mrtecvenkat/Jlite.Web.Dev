@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="poet app test suite">
+
+
+  <test name="regression testing">
+  <parameter name="myname" value="Venkata Kosanam"/>
+  <classes>
+  	<class name="com.poet.core.test.testcases.TestClassOne"/>
+  </classes>
+  </test> 
+  <test name="regression testing1">
+  <parameter name="myname" value="Kosanam Venkata"/>
+  <classes>
+  	<class name="com.poet.core.test.testcases.TestOneTwo"/>
+  </classes>
+  </test> 
+</suite> 
