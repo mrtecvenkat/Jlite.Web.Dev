@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite for chrome_Re.xls]">
+  <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+  <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+  <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+  <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+  <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+  <parameter name="RECORD_ID" value="DATASET007"/>
+  <parameter name="ITERATION_ID" value="DataSet007"/>
+  <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+  <parameter name="TESTCASE_ID" value="TC0002"/>
+  <test name="DATASET001-TC0001-DataSet001(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET001"/>
+    <parameter name="ITERATION_ID" value="DataSet001"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0001"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET001-TC0001-DataSet001(failed) -->
+  <test name="DATASET002-TC0001-DataSet002(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET002"/>
+    <parameter name="ITERATION_ID" value="DataSet002"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0001"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET002-TC0001-DataSet002(failed) -->
+  <test name="DATASET003-TC0001-DataSet003(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET003"/>
+    <parameter name="ITERATION_ID" value="DataSet003"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0001"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET003-TC0001-DataSet003(failed) -->
+  <test name="DATASET004-TC0001-DataSet004(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET004"/>
+    <parameter name="ITERATION_ID" value="DataSet004"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0001"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET004-TC0001-DataSet004(failed) -->
+  <test name="DATASET005-TC0002-DataSet005(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET005"/>
+    <parameter name="ITERATION_ID" value="DataSet005"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0002"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET005-TC0002-DataSet005(failed) -->
+  <test name="DATASET006-TC0002-DataSet006(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET006"/>
+    <parameter name="ITERATION_ID" value="DataSet006"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0002"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET006-TC0002-DataSet006(failed) -->
+  <test name="DATASET007-TC0002-DataSet007(failed)">
+    <parameter name="inputfilepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="resoucepath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-resourse"/>
+    <parameter name="corereportexcelpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103\chrome_Re.xls"/>
+    <parameter name="inputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input"/>
+    <parameter name="outputpath" value="C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016011103"/>
+    <parameter name="RECORD_ID" value="DATASET007"/>
+    <parameter name="ITERATION_ID" value="DataSet007"/>
+    <parameter name="inputfile_path" value="C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls"/>
+    <parameter name="TESTCASE_ID" value="TC0002"/>
+    <classes>
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunAfterTestCase"/>
+          <include name="doRunTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+          <include name="doRunBeforeTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- DATASET007-TC0002-DataSet007(failed) -->
+</suite> <!-- Failed suite [TestSuite for chrome_Re.xls] -->

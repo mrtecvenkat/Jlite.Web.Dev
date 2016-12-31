@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.poet.core.test.testcases.TestOneTwo">
+        <methods>
+          <include name="doTest"/>
+        </methods>
+      </class> <!-- com.poet.core.test.testcases.TestOneTwo -->
+      <class name="com.poet.core.test.testcases.TestOneaTest">
+        <methods>
+          <include name="doTest"/>
+        </methods>
+      </class> <!-- com.poet.core.test.testcases.TestOneaTest -->
+      <class name="com.poet.core.test.testcases.TestClassOne">
+        <methods>
+          <include name="testMe"/>
+          <include name="doTest"/>
+        </methods>
+      </class> <!-- com.poet.core.test.testcases.TestClassOne -->
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <methods>
+          <include name="doRunTestCase"/>
+        </methods>
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

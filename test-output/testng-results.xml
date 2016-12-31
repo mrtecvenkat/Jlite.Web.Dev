@@ -1,17 +1,380 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25" started-at="2016-12-23T19:37:08Z" finished-at="2016-12-23T19:37:08Z">
+  <suite name="TestSuite for chrome_Re.xls" duration-ms="58943" started-at="2016-12-30T23:11:53Z" finished-at="2016-12-30T23:12:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25" started-at="2016-12-23T19:37:08Z" finished-at="2016-12-23T19:37:08Z">
-      <class name="com.poet.core.test.testcases.TestClassOne">
-        <test-method status="PASS" signature="doTest()[pri:0, instance:com.poet.core.test.testcases.TestClassOne@5419f379]" name="doTest" duration-ms="9" started-at="2016-12-23T14:37:08Z" finished-at="2016-12-23T14:37:08Z">
+    <test name="DATASET001-TC0001-DataSet001" duration-ms="5641" started-at="2016-12-30T23:11:53Z" finished-at="2016-12-30T23:11:58Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@2d5ad446]" name="doRunBeforeTestCase" is-config="true" duration-ms="26" started-at="2016-12-30T18:11:53Z" finished-at="2016-12-30T18:11:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet001]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- doTest -->
-      </class> <!-- com.poet.core.test.testcases.TestClassOne -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@2d5ad446]" name="doRunTestCase" duration-ms="5552" started-at="2016-12-30T18:11:53Z" finished-at="2016-12-30T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@2d5ad446]" name="doRunAfterTestCase" is-config="true" duration-ms="56" started-at="2016-12-30T18:11:58Z" finished-at="2016-12-30T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET001-TC0001-DataSet001 -->
+    <test name="DATASET002-TC0001-DataSet002" duration-ms="6472" started-at="2016-12-30T23:11:58Z" finished-at="2016-12-30T23:12:05Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@23d22ba1]" name="doRunBeforeTestCase" is-config="true" duration-ms="26" started-at="2016-12-30T18:11:58Z" finished-at="2016-12-30T18:11:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET002]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet002]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@23d22ba1]" name="doRunTestCase" duration-ms="6438" started-at="2016-12-30T18:11:58Z" finished-at="2016-12-30T18:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@23d22ba1]" name="doRunAfterTestCase" is-config="true" duration-ms="7" started-at="2016-12-30T18:12:05Z" finished-at="2016-12-30T18:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET002-TC0001-DataSet002 -->
+    <test name="DATASET003-TC0001-DataSet003" duration-ms="6682" started-at="2016-12-30T23:12:05Z" finished-at="2016-12-30T23:12:11Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@5aaec66a]" name="doRunBeforeTestCase" is-config="true" duration-ms="12" started-at="2016-12-30T18:12:05Z" finished-at="2016-12-30T18:12:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet003]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@5aaec66a]" name="doRunTestCase" duration-ms="6660" started-at="2016-12-30T18:12:05Z" finished-at="2016-12-30T18:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@5aaec66a]" name="doRunAfterTestCase" is-config="true" duration-ms="10" started-at="2016-12-30T18:12:11Z" finished-at="2016-12-30T18:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET003-TC0001-DataSet003 -->
+    <test name="DATASET004-TC0001-DataSet004" duration-ms="6742" started-at="2016-12-30T23:12:11Z" finished-at="2016-12-30T23:12:18Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@79b6fe9]" name="doRunBeforeTestCase" is-config="true" duration-ms="9" started-at="2016-12-30T18:12:11Z" finished-at="2016-12-30T18:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET004]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet004]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@79b6fe9]" name="doRunTestCase" duration-ms="6724" started-at="2016-12-30T18:12:11Z" finished-at="2016-12-30T18:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@79b6fe9]" name="doRunAfterTestCase" is-config="true" duration-ms="8" started-at="2016-12-30T18:12:18Z" finished-at="2016-12-30T18:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET004-TC0001-DataSet004 -->
+    <test name="DATASET005-TC0002-DataSet005" duration-ms="11093" started-at="2016-12-30T23:12:18Z" finished-at="2016-12-30T23:12:29Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@29c149c1]" name="doRunBeforeTestCase" is-config="true" duration-ms="9" started-at="2016-12-30T18:12:18Z" finished-at="2016-12-30T18:12:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET005]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet005]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@29c149c1]" name="doRunTestCase" duration-ms="11045" started-at="2016-12-30T18:12:18Z" finished-at="2016-12-30T18:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@29c149c1]" name="doRunAfterTestCase" is-config="true" duration-ms="39" started-at="2016-12-30T18:12:29Z" finished-at="2016-12-30T18:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET005-TC0002-DataSet005 -->
+    <test name="DATASET006-TC0002-DataSet006" duration-ms="13568" started-at="2016-12-30T23:12:29Z" finished-at="2016-12-30T23:12:43Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@650527cf]" name="doRunBeforeTestCase" is-config="true" duration-ms="16" started-at="2016-12-30T18:12:29Z" finished-at="2016-12-30T18:12:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET006]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet006]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@650527cf]" name="doRunTestCase" duration-ms="13543" started-at="2016-12-30T18:12:29Z" finished-at="2016-12-30T18:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@650527cf]" name="doRunAfterTestCase" is-config="true" duration-ms="9" started-at="2016-12-30T18:12:43Z" finished-at="2016-12-30T18:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET006-TC0002-DataSet006 -->
+    <test name="DATASET007-TC0002-DataSet007" duration-ms="8685" started-at="2016-12-30T23:12:43Z" finished-at="2016-12-30T23:12:52Z">
+      <class name="org.jlite.core.jlite.TestCaseRunner">
+        <test-method status="PASS" signature="doRunBeforeTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@2c97bfd8]" name="doRunBeforeTestCase" is-config="true" duration-ms="13" started-at="2016-12-30T18:12:43Z" finished-at="2016-12-30T18:12:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-input\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DATASET007]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DataSet007]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TC0002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-ouput\chrome_Re12302016061152\chrome_Re.xls]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[C:\Users\Mokshitha\Venkat\workplace\core-test-resourse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunBeforeTestCase -->
+        <test-method status="PASS" signature="doRunTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@2c97bfd8]" name="doRunTestCase" duration-ms="8666" started-at="2016-12-30T18:12:43Z" finished-at="2016-12-30T18:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunTestCase -->
+        <test-method status="PASS" signature="doRunAfterTestCase()[pri:0, instance:org.jlite.core.jlite.TestCaseRunner@2c97bfd8]" name="doRunAfterTestCase" is-config="true" duration-ms="6" started-at="2016-12-30T18:12:52Z" finished-at="2016-12-30T18:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRunAfterTestCase -->
+      </class> <!-- org.jlite.core.jlite.TestCaseRunner -->
+    </test> <!-- DATASET007-TC0002-DataSet007 -->
+  </suite> <!-- TestSuite for chrome_Re.xls -->
 </testng-results>
